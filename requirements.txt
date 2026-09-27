@@ -1,0 +1,10 @@
+# 复现项目依赖
+numpy
+scipy
+pandas
+scikit-learn
+scikit-image
+SimpleITK
+torch
+# 可选：部分模块（体素级滤波的完整特征集）需要
+# pyradiomics
